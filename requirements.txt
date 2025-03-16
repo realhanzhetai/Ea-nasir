@@ -1,0 +1,4 @@
+numpy==2.2.3
+python-dotenv==1.0.1
+newsapi_python==0.2.7
+wikipedia==1.4.0

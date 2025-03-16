@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Folders to ignore
+files/Principles of Economics/
+files/QueryTest/
+
+# Logs
+*.log
