@@ -1,5 +1,4 @@
 Environment Configuration
-
 Create an .env file in the root directory of your project with the following structure:
 ```
 juhe_financial_news_token = "YOUR JUHE FINANCIAL TOKEN (OPTIONAL)"
@@ -15,6 +14,7 @@ Notes:
 juhe_financial_news_token and newsapi are optional and not strictly required.
 Replace each placeholder with your actual credentials.
 
+Installation
 Since LightRAG currently does not have an official released version, you'll need to install it manually. First, download the LightRAG repository from GitHub. Once downloaded, navigate to the folder containing the repository and install it using pip:
 ```
 cd LightRAG  # replace with your actual downloaded path
